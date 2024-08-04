@@ -13,7 +13,7 @@ email=vitormv@ufmg.br
 about=TrackOptimizer is a plugin designed to detect and correct anomalies in trajectories, not only based on speed but also considering acceleration and direction. It includes automatic report generation for analyzed trajectories, making it a comprehensive tool for trajectory data validation and correction.
 
 tracker=http://bugs
-repository=http://repo
+repository=https://github.com/vitorv7519/TrackOptimizer
 # End of mandatory metadata
 
 # Recommended items:
