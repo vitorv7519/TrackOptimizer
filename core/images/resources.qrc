@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/track_optimizer" >
+        <file>trackOptimizerIcon.png</file>
+        <file>trackOptimizerIcon2.png</file>
+    </qresource>
+</RCC>
